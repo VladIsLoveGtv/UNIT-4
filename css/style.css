@@ -96,3 +96,10 @@
     box-sizing: border-box;
     font-size: 16px;
   }
+
+  .p-green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;
+    }
